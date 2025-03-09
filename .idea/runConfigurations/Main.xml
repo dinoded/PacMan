@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="PacMan_Swing" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pacman_SofiiaDurytska_PlusSwing" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
